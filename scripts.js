@@ -1,4 +1,4 @@
-// brining back Aria Labels & roles
+// bringing back Aria Labels & roles
 // blogpost by Andrian Roselli: https://adrianroselli.com/2018/05/functions-to-add-aria-to-tables-and-lists.html
 
 function AddTableARIA() {
